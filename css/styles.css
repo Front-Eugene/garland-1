@@ -121,8 +121,7 @@ h2.title:after {
   display: inline-block;
   margin-bottom: 10px;
 }
-.preo p {
-}
+
 h2.title span {
   color: #515c70;
   display: block;
@@ -170,8 +169,8 @@ section .image {
 .offer_section .main_title {
   padding: 10px 4px;
   font-weight: 700;
-  font-size: 26px;
-  line-height: 37px;
+  font-size: 40px;
+  line-height: 40px;
   text-align: center;
 }
 
